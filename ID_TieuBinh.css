@@ -4,6 +4,10 @@
 	margin: 0;
 	padding: 0;
 }
+body{
+	width:100%;
+    overflow-x:hidden;
+}
 
 
 .header{
@@ -52,7 +56,6 @@ li{
 	color: #D6D6D6;
 	width: 7vw;
 }
-
 
 
 .qcao{
